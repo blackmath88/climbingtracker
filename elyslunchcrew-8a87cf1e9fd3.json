@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "elyslunchcrew",
+  "private_key_id": "8a87cf1e9fd36b9b1c5e8d02c78ad60465c9b93e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjxAUjzPeWTk1p\nEb2FdftP9NaQFGH4hJk8Fn7UP/raRqZeEnHxL28YBNME/Dx+tClZkt3PZ4PwFmfn\nXtwhEruBeOzSWBansIMQUreqn0nFC/vCoaMZuae+hJKAYn2/Rk26Hi0t3pHE4O9Z\nEcwGzO96O2zGaP56uAi9+EgeAFCIwUculNOaa6zoIMXYmjPjtEZFEwa5B/dxM4Hd\n293U5Z3HuKDQbjwpjLhvhOyN6lwuAT3I6hwSJVjp4M1ZgJt3b9PWb2sR9WCzGyd6\nFv/TYpT9YBpYfZVuWca4k8MiR7y3GT1+LP150dlYhd3TnMbcxmtwPGAvKZMsicRF\nXHTZeQNJAgMBAAECggEAA9hCKSIipW0a8OatWQTpNKo6P9l0p9+gE9qw2VWTs3xx\nYzfCZE/RZ0JUvHMaDfz3lA5oRfpnjPNPtu1BlIayr4JZ6AHQrVjt6MwSWw+AjT9f\n5qTCFiRnUWgeIuS9EEiroj0bYS5upG1F/US3UikNTcS3o+xa3iF0NhaOReMKwP0k\nAzedySvKLdR8JiNYtW9zltlybGM/oI67zn7PGZX0GNeVzirRsb2tXBXHEK6PITHS\nDnTs9wAgR1lACU4Zu85vRVhx/OziLT97CnJQBidE1sx1mM4fCnzG/nqNqrgDxENT\npXXk4nFo4cKn7hlABUmhCW/nO+J47JhJgxJ6tBQYEQKBgQDe3aVg3WA4tzW+giI4\nyEM+BACAq1FZ4VWgxqvdFuGgS9WXWO6hVfYBHgMh7ypV0q+srydpibABBRsf1HnE\ndrkRDuKtUqVNYNOwCaodI3AsG4Z/AGFczzn5fmPsq8dm6fGydtKqZAJqTayCzrBo\nCOxg/2en3plDY4sRo6p7zQg7cQKBgQC8HQCrEs1gacsmLmRfjiKu0LIklL7eplSo\nQPN3KV1pOs0SHkappTXSv6ZphaBhk0CN1LGtUzjBJ8x0y3zXD1PawRurp2qt/lV6\nUkWqb1eCToKrKzvhVgI1oZXo7XnelXaW+zNAH7k1khHqJht/yShVArdzJ96lqzgK\nUVWAaWtpWQKBgQDSuATe8lFBLtDtAMP0pj0VzNjgz5rKfcjljBMBptnMIwef4yE1\ngD5qTgMuOaDwppUdlDqSifHU9Qvxa4d6X7qZy1Y+BK9w2wUsI+cpR9GOkrP3Ltff\n1bt+D6fRJZYS002IrNqA6rBx7GEZCO44X3+IMtTCHzEQS3U5R2MxTOnksQKBgGeB\nHckDg3W1QE414IyjTHob4qk2Hv+rTZF2i3/ZhshLzmJVvlPBz6eyRAJzwBdwSmi/\nyzOvQt8k4t6wyHQcvuryriL47z3lX2r6sdJhiSjtwgAkvcHy7SxNSIrtf8z1OFdC\nyKRT0Dilsq2/YgohyMtdv0rheSR23VLwBbeuSaehAoGBAKhQ6ja7IFoc7hQmAH72\nvjnaGI41LNNwxdnRvsZY0gV1Tgi25OeObb+mz1Ull+dzy2u6eUYJhSD6iCWvrNiW\n+jqgERSurH/qzR7hPm3sQkTnG0Zm4E/AZ7Idq9nJZwT0+BfbFArG/AnOMltbtdKu\nBS15pdcBmaMJrG2ezBJ22tkU\n-----END PRIVATE KEY-----\n",
+  "client_email": "climbing-data-access@elyslunchcrew.iam.gserviceaccount.com",
+  "client_id": "102958951716337946169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/climbing-data-access%40elyslunchcrew.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
