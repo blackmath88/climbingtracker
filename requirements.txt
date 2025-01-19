@@ -1,1 +1,3 @@
-Lists all dependencies (Flask, gspread, oauth2client).
+Flask==2.3.2
+gspread==5.7.2
+oauth2client==4.1.3
